@@ -14,6 +14,6 @@ Based on Content of this week, there are **5 assignments** to be completed.
 ## Submission:
 
 Use the following link to upload your assignments:  
-   [Submit Here](https://forms.gle/cZoWGYvMJn6NNEak6)
+   [Submit Here](https://forms.gle/FSP9WghcLmKJW5C59)
 
 **Note: Use LDAP id to submit assignments** 
