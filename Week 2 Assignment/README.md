@@ -1,4 +1,4 @@
-# Week 1 Assignment
+# Week 2 Assignment
 
 Based on Content of this week, there are **5 assignments** to be completed.
 
